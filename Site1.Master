@@ -1,0 +1,112 @@
+﻿    <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="thesite.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <script>
+        function cellHover(id) {
+            document.getElementById(id).style.backgroundColor = "#D9EAFD";
+        }
+        function cellOut(id) {
+            document.getElementById(id).style.backgroundColor = "";
+        }
+
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+            <table>
+                <tr>
+                    <td>
+                        <asp:Button ID="SignOut" runat="server" Text="Sign Out" OnClick="SignOut_Click" />
+                    </td>
+                    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+            </table>
+            
+            <table border="0" cellspacing="0" cellpadding="5"   >
+                <tr>
+                    <td>
+                        <img src="img/Wikipedia-logo-v2.jpg" height="150" />
+                    </td>
+                    <td>
+                        <div style="font-family: 'Georgia', serif; font-size: 150px;"> Click Test </div>
+                    </td>
+                    <td>
+                        <img src="img/Wikipedia-logo-v2.jpg" width="150"  /> 
+                    </td>
+                </tr>
+            </table>
+
+             
+          
+            <asp:Panel runat="server" ID="pnlSignin">
+                <div style="font-size:30px">
+                <table style="border: 1px solid black;">
+                    <tr>
+                        <td id="game" onmouseover="cellHover(id)" onmouseout="cellOut(id)">
+                            &nbsp;&nbsp;<a href="game.aspx">המשחק</a>&nbsp;&nbsp;
+                        </td>
+                        <td id="WelcomeMaster2" onmouseover="cellHover(id)" onmouseout="cellOut(id)" >
+                            &nbsp;<a href="welcome.aspx">Welcome</a>&nbsp;&nbsp;
+                        </td>
+                        <td id="update" onmouseover="cellHover(id)" onmouseout="cellOut(id)"> 
+                            &nbsp;<a href="update.aspx">UpDate</a>&nbsp;&nbsp;
+                        </td>
+                        <asp:Panel Visible="false" ID="PanelManager" runat="server">
+                            <td id="ManagerMaster" onmouseover="cellHover(id)" onmouseout="cellOut(id)">
+                                    &nbsp;<a href="manager.aspx">Manager</a>&nbsp;&nbsp;
+                            </td>
+                        </asp:Panel>
+                    </tr>
+                </table>
+                </div>
+
+            </asp:Panel>
+
+
+            <asp:Panel runat="server" ID="pnlGoust">
+                <div style="font-size:30px">
+                <table style="border: 1px solid black;">
+                    <tr>
+                            <td id="LogInMaster" onmouseover="cellHover(id)" onmouseout="cellOut(id)">
+                                &nbsp;&nbsp; <a href="login.aspx"> LogIn </a> &nbsp
+
+                            </td>
+                            <td id="SighUpMaster" onmouseover="cellHover(id)" onmouseout="cellOut(id)">
+
+                                &nbsp;<a href="sighnup.aspx">SighnUp</a> &nbsp;
+
+                            </td>
+                            <td id="WelcomeMaster" onmouseover="cellHover(id)" onmouseout="cellOut(id)">
+                                &nbsp;<a href="welcome.aspx">Welcome</a> &nbsp;
+                            </td>
+                            
+                        </tr>
+                        
+                    
+                    </table>
+                    </div>
+                
+            </asp:Panel>
+                
+
+
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" ></asp:ContentPlaceHolder>
+            
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\thesite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|d:\\thesite\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\manager.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:manager.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\manager.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:manager.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\game.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:game.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\sighnup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:sighnup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\sighnup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:sighnup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\game.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:game.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\game.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:game.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|D:\\thesite\\userstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59819A2-A2A9-4138-8AE4-EA99C31A1D3A}|thesite.csproj|solutionrelative:userstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "D:\\thesite\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "Site1.Master.cs",
+              "ToolTip": "D:\\thesite\\Site1.Master.cs",
+              "RelativeToolTip": "Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:09:50.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "welcome.aspx",
+              "DocumentMoniker": "D:\\thesite\\welcome.aspx",
+              "RelativeDocumentMoniker": "welcome.aspx",
+              "ToolTip": "D:\\thesite\\welcome.aspx",
+              "RelativeToolTip": "welcome.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T18:09:50.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sighnup.aspx.cs",
+              "DocumentMoniker": "D:\\thesite\\sighnup.aspx.cs",
+              "RelativeDocumentMoniker": "sighnup.aspx.cs",
+              "ToolTip": "D:\\thesite\\sighnup.aspx.cs",
+              "RelativeToolTip": "sighnup.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:09:50.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "manager.aspx.cs",
+              "DocumentMoniker": "D:\\thesite\\manager.aspx.cs",
+              "RelativeDocumentMoniker": "manager.aspx.cs",
+              "ToolTip": "D:\\thesite\\manager.aspx.cs",
+              "RelativeToolTip": "manager.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:09:50.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\thesite\\Site1.Master",
+              "RelativeDocumentMoniker": "Site1.Master",
+              "ToolTip": "D:\\thesite\\Site1.Master",
+              "RelativeToolTip": "Site1.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T18:09:50.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sighnup.aspx",
+              "DocumentMoniker": "D:\\thesite\\sighnup.aspx",
+              "RelativeDocumentMoniker": "sighnup.aspx",
+              "ToolTip": "D:\\thesite\\sighnup.aspx",
+              "RelativeToolTip": "sighnup.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T18:09:50.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "game.aspx.cs",
+              "DocumentMoniker": "D:\\thesite\\game.aspx.cs",
+              "RelativeDocumentMoniker": "game.aspx.cs",
+              "ToolTip": "D:\\thesite\\game.aspx.cs",
+              "RelativeToolTip": "game.aspx.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:09:50.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.aspx",
+              "DocumentMoniker": "D:\\thesite\\login.aspx",
+              "RelativeDocumentMoniker": "login.aspx",
+              "ToolTip": "D:\\thesite\\login.aspx",
+              "RelativeToolTip": "login.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T18:09:50.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "manager.aspx",
+              "DocumentMoniker": "D:\\thesite\\manager.aspx",
+              "RelativeDocumentMoniker": "manager.aspx",
+              "ToolTip": "D:\\thesite\\manager.aspx",
+              "RelativeToolTip": "manager.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T18:09:50.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\thesite\\login.aspx.cs",
+              "RelativeDocumentMoniker": "login.aspx.cs",
+              "ToolTip": "D:\\thesite\\login.aspx.cs",
+              "RelativeToolTip": "login.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:09:50.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "game.aspx",
+              "DocumentMoniker": "D:\\thesite\\game.aspx",
+              "RelativeDocumentMoniker": "game.aspx",
+              "ToolTip": "D:\\thesite\\game.aspx",
+              "RelativeToolTip": "game.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T18:09:50.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "update.aspx",
+              "DocumentMoniker": "D:\\thesite\\update.aspx",
+              "RelativeDocumentMoniker": "update.aspx",
+              "ToolTip": "D:\\thesite\\update.aspx",
+              "RelativeToolTip": "update.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T18:09:50.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "update.aspx.cs",
+              "DocumentMoniker": "D:\\thesite\\update.aspx.cs",
+              "RelativeDocumentMoniker": "update.aspx.cs",
+              "ToolTip": "D:\\thesite\\update.aspx.cs",
+              "RelativeToolTip": "update.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:09:50.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "game.aspx.designer.cs",
+              "DocumentMoniker": "D:\\thesite\\game.aspx.designer.cs",
+              "RelativeDocumentMoniker": "game.aspx.designer.cs",
+              "ToolTip": "D:\\thesite\\game.aspx.designer.cs",
+              "RelativeToolTip": "game.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:09:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "D:\\thesite\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "StyleSheet1.css",
+              "ToolTip": "D:\\thesite\\StyleSheet1.css",
+              "RelativeToolTip": "StyleSheet1.css",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-02T18:09:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "D:\\thesite\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "WebForm2.aspx",
+              "ToolTip": "D:\\thesite\\WebForm2.aspx",
+              "RelativeToolTip": "WebForm2.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-02T18:09:50.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersTable.cs",
+              "DocumentMoniker": "D:\\thesite\\UsersTable.cs",
+              "RelativeDocumentMoniker": "UsersTable.cs",
+              "ToolTip": "D:\\thesite\\UsersTable.cs",
+              "RelativeToolTip": "UsersTable.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:09:50.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
